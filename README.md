@@ -6,7 +6,7 @@ The Plugin is currently only available as source code. It will be released as ja
 If you should really really want the thing now and are prepared to supply me with bug reports once you run into any trouble using it I will be happy to send you a prerelease jar.
 ## Here is how it works:
 
-In ReportStarter.startProcess0() I am adding a couple of missing parameters to the ProcessInfo:
+ReportStarter.startProcess0() adds a couple of missing parameters to the ProcessInfo:
 
     private boolean startProcess0(Properties ctx, ProcessInfo pi, Trx trx)
     {
