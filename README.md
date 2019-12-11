@@ -1,5 +1,9 @@
 # iDempiereJasperPlus
-This iDempiere plugin adds an archive button to the JasperReport Document preview
+This iDempiere plugin adds an archive button to the JasperReport Document preview.
+
+## Do not use this Software!
+Note that this Plugin is obsolete by now. Archiving of JasperReports is noe integrated into the latest (default) version of iDempiere.
+Installation is recommended only if you can not (yet) update your iDempiere installation to the default branch.
 
 ## Installation
 The Plugin is currently only available as source code. It will be released as jar for convenient installation via the console once its stability is established.
